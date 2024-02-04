@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Create Server Folder
+
+Create server folder and you can run:
+
+### `npm install express nodemon socket.io cors`
+
+## Create index.js in server folder and copy paste my code in index.js
+
 ## Available Scripts
 
 In the project directory, you can run:
